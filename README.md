@@ -1,1 +1,7 @@
-# fictional-potato
+# fictional-pott
+Boas vindas o meu perfil
+eick rafael
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
